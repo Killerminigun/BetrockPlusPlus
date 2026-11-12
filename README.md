@@ -29,6 +29,8 @@ If you encounter a bug, inaccuracy or other issue, please file an issue here on 
 
 If you don't have a Github account, please report the issue on Discord, though this is generally discouraged.
 
+Report All WiiBeta Bugs HERE And I'll Work with the devs to get it fixed.
+
 ## Hardware Requirements
 
 To find out what's needed to run the project, please see the [recommended hardware requirements on the hardware page](./HARDWARE.md#recommended-specs-server).
